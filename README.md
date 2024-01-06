@@ -1,2 +1,2 @@
 # Django-Authentication (TokenAuth)
-### Then simple project to demonstret TokenAuthentication using `rest_framework.authtoken`
+### Then simple project to demonstrate TokenAuthentication using `rest_framework.authtoken`
